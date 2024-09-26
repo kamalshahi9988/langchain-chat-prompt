@@ -43,7 +43,7 @@ Run the application using
 
     python main.py
 
-## Package details description
+## Package details description(Parameters)
 
 - ### dynamic_var
 
