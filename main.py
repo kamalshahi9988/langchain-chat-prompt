@@ -1,4 +1,4 @@
-from package.prompt import ExecuteLlm
+from chat_prompt.prompt import ExecuteLlm
 DEFAULT_MODEL_NAME = "gpt-4o"
 
 # template = """
